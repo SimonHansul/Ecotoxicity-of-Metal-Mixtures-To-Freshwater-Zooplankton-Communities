@@ -10,6 +10,7 @@ Ghent University
 
 Content:
 - src: Source code
-- TRACE_Implementation_verification.html: Implementation verficiation conducated prior to calibration of the model. 
+- TRACE_Implementation_verification.html: Rendered version of the last conducted implementation verficiation. 
+- TRACE_Implementaion_verification.ipynb: Executable version of the implementation verification.
 - Example_usage.ipynb: Examplatory usage of the implementation.
 
