@@ -13,4 +13,5 @@ Content:
 - TRACE_Implementation_verification.html: Rendered version of the last conducted implementation verficiation. 
 - TRACE_Implementaion_verification.ipynb: Executable version of the implementation verification.
 - Example_usage.ipynb: Examplatory usage of the implementation.
+- Manifest.toml and Project.toml: Julia project files. Allow to load all additional packages.
 
